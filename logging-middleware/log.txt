@@ -1,4 +1,0 @@
-Log created: {
-  logID: '6d22214d-9edd-4635-a91a-851e88d47837',
-  message: 'log created successfully'
-}
